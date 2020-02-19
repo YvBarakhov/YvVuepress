@@ -1,3 +1,3 @@
 # Automatically deployed Vuepress site to GitHub Pages with Travis CI
 
-Inner README.io - INSIDE DOCS folder
+Outter README.io - OUTSIDE DOCS folder

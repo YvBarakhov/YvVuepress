@@ -1,4 +1,9 @@
 module.exports = {
-    title: 'Mi sitio en GitHub Pages con VuePress',
-    description: 'Despliegue automatizado con VuePress y GitHub Pages'
+    title: 'YvVuePress',
+    description: 'Automatically deployed Vuepress site to GitHub Pages with Travis CI',
+    themeConfig: {
+        nav: [
+            { text: 'Another page', link: '/hello.html'}
+        ]
+    }
 }
