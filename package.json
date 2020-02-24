@@ -5,8 +5,8 @@
     "author": "abarakhov@gmail.com",
     "repository": "https://github.com/YvBarakhov/YvVuepress.git",
     "scripts": {
-        "dev": "vuepress dev docs",
-        "build": "vuepress build docs",
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs",
         "clean": "rimraf dist/*"
     },
     "license": "MIT",
